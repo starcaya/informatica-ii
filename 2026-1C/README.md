@@ -2,6 +2,10 @@
 
 Material clase a clase. Cada carpeta contiene los scripts vistos en clase.
 
-| Clase | Fecha | Tema |
-|-------|-------|------|
-| [clase-01](clase-01/) | _Pendiente_ | _Pendiente_ |
+| Clase | Tema |
+|-------|------|
+| clase-01 | Git |
+| clase-02 | Github |
+| [clase-03](clase-03/) | Argumentos del main (`argc`, `argv`, `getenv`) y Streams (`stdin`, `stdout`, `stderr`) |
+| [clase-04](clase-04/) | Manejo de archivos de texto en C (`fopen`, `fprintf`, `fgets`, `strtok`, `feof`) |
+| [clase-05](clase-05/) | Manejo de archivos binarios en C (`fread`, `fwrite`, `fseek`, `ftell`, `<stdint.h>`, endianness) |
