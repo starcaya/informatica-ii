@@ -22,6 +22,7 @@ Usuarios de GitHub de los participantes de Informática II.
 - tcatinello
 - DaianaMedoneAcosta
 - VZ326
+- ARodriguez067
 - bcrrica
 - lucascerbino-sudo
 - Lucianodguerra
